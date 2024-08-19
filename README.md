@@ -1,2 +1,5 @@
-# ML_Implementation
-In this repistory I will be sharing all my implementations of ML algorithms on different datasets 
+ Machine Learning Algorithms: Linear Regression
+
+This repository contains an implementation of the Linear Regression algorithm as part of my machine learning studies. It includes  multiple linear regression model, along with code for data preprocessing, model training, evaluation, and visualization. The project serves as a foundational step in understanding and applying supervised learning techniques.
+
+Feel free to explore, experiment, and contribute!
